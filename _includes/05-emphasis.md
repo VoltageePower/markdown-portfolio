@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This profile is _foucsed_ in __Cyber Security__ and Open Source projects
